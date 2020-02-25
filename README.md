@@ -25,5 +25,5 @@
 
 ### Resimler
 ![](prototip.png)
-![](imag1.png)
-![](image2.png)
+![](image1.png)
+![](imag2.png)
